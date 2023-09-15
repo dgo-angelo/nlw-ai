@@ -35,7 +35,7 @@
 
 ## :dart: Objetivo
 
-:trophy: A NLW-AI é uma aplicação que permite a geração de títulos e descrições de videos para Youtube utilizando inteligência artifical, via integração com a api do OpenAI. 
+:trophy: A NLW-AI é uma aplicação que permite a geração de títulos e descrições de videos utilizando inteligência artifical, via integração com a api do OpenAI. 
 
 
 ## :sunrise_over_mountains: Imagens
