@@ -29,7 +29,7 @@
 
 ## :star: Sobre o Projeto 
 
- Projeto desenvolvido durante o NLW AI, um evento online grauito, organizado pela [Rocketseat](https://lp.rocketseat.com.br/nlw). 
+ Projeto desenvolvido durante o NLW IA, um evento online grauito, organizado pela [Rocketseat](https://lp.rocketseat.com.br/nlw). 
 
 
 
